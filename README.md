@@ -1,2 +1,2 @@
-# pathon_20230907
- 
+# python_20230907
+ ## python語言
